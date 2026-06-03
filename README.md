@@ -1,3 +1,6 @@
+[![Build](https://github.com/ETSISI-EMS/ems-trabajo3-2026-ems_trabajo3_raul/actions/workflows/main.yml/badge.svg)](https://github.com/ETSISI-EMS/ems-trabajo3-2026-ems_trabajo3_raul/actions/workflows/main.yml)
+
+
 :point_right: PUT YOUR CI BADGE HERE
 
 # EMS-lab3 Maintainability
